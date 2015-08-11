@@ -1,1 +1,1 @@
-Node WebKit - Angular desctope application
+An Angular node-webkit application
