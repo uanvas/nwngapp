@@ -1,0 +1,24 @@
+{
+  "name": "nwngapp",
+  "version": "1.0.0",
+  "description": "An Angular node-webkit application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uanvas/nwngapp.git"
+  },
+  "keywords": [
+    "node",
+    "webkit",
+    "angular"
+  ],
+  "author": "Andrii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uanvas/nwngapp/issues"
+  },
+  "homepage": "https://github.com/uanvas/nwngapp#readme"
+}
